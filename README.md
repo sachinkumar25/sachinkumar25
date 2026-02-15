@@ -1,6 +1,6 @@
 # Hi 👋 My name is Sashvad (Sachin) Satishkumar
 
-### Software Engineer & Computer Science Student
+### Software Engineer & Full-Stack Developer
 I am a CS and Mathematics double major at the University of Maryland (UMD) obsessed with building high-performance systems. I work across the stack—from distributed systems and ML infrastructure to real-time data pipelines—turning complex problems into reliable, cost-effective software.
 
 * 📍 Based in College Park, MD
