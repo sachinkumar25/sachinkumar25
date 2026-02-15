@@ -42,6 +42,6 @@ An interactive **Augmented Reality game** built for UMD coursework, focusing on 
 A collection of low-level systems projects including custom **Dynamic Memory Allocators** (malloc/free) and **Process Managers**, showcasing a deep-seated appreciation for rigorous testing and memory safety.
 
 ## 🔗 Connect
-* [Portfolio](https://sachin-space.vercel.app/)
-* [LinkedIn](https://www.linkedin.com/in/sachinkumar25)
+* [Portfolio](https://sachinskumar.com/)
+* [LinkedIn](https://www.linkedin.com/in/sachin-satishkumar/)
 * [Email](mailto:sskumar@terpmail.umd.edu)
