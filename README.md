@@ -26,10 +26,10 @@ AWS · Docker · Kubernetes · UNIX/Linux · Git · MongoDB · PostgreSQL · Red
 ### 🦖 RecruitRaptor
 **AI-powered recruiter agent** designed to automate the heavy lifting of hiring. Built with Python to orchestrate LLM agents for candidate sourcing and autonomous resume screening. 
 
-### 🛡️ ProTechXionSW
+### 🛡️ ProTechXion
 Software lead for **Team ProTechXion** in the **Grand Challenge 2025 at xFoundry@UMD**. Building high-stakes tech solutions integrated with modern software architecture to tackle real-world security challenges.
 
-### 📊 tributum
+### 📊 Tributum
 A TypeScript-based trade analysis platform that maps how **tariff changes reshape global markets**. Engineered to provide high-speed insights into complex economic policy shifts.
 
 ### 🌍 EcoNavixAI
@@ -38,8 +38,8 @@ Sustainability-focused platform reducing supply chain emissions through real-tim
 ### 🌊 Terpiez (AR Game)
 An interactive **Augmented Reality game** built for UMD coursework, focusing on mobile engagement and spatial computing within the campus ecosystem.
 
-### ⚙️ SachinOS / Systems Work
-A collection of low-level systems projects including custom **Dynamic Memory Allocators** (malloc/free) and **Process Managers**, showcasing a deep-seated appreciation for rigorous testing and memory safety.
+### ⚙️ SachinOS
+Personal portfolio, please visit at https://sachinskumar.com/!
 
 ## 🔗 Connect
 * [Portfolio](https://sachinskumar.com/)
